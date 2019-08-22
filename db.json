@@ -1,7 +1,7 @@
 {
    "books":
 [{
-			"id" : 1.
+			"id" : 1,
 			"isbn": "9781593275846",
 			"title": "Eloquent JavaScript, Second Edition",
 			"subtitle": "A Modern Introduction to Programming",
@@ -13,7 +13,7 @@
 			"website": "http://eloquentjavascript.net/"
 		},
 		{
-			"id" : 2.
+			"id" : 2,
 			"isbn": "9781449331818",
 			"title": "Learning JavaScript Design Patterns",
 			"subtitle": "A JavaScript and jQuery Developer's Guide",
@@ -25,7 +25,7 @@
 			"website": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/"
 		},
 		{
-			"id" : 3.
+			"id" : 3,
 			"isbn": "9781449365035",
 			"title": "Speaking JavaScript",
 			"subtitle": "An In-Depth Guide for Programmers",
@@ -37,7 +37,7 @@
 			"website": "http://speakingjs.com/"
 		},
 		{
-			"id" : 4.
+			"id" : 4,
 			"isbn": "9781491950296",
 			"title": "Programming JavaScript Applications",
 			"subtitle": "Robust Web Architecture with Node, HTML5, and Modern JS Libraries",
@@ -49,7 +49,7 @@
 			"website": "http://chimera.labs.oreilly.com/books/1234000000262/index.html"
 		},
 		{
-			"id" : 5.
+			"id" : 5,
 			"isbn": "9781593277574",
 			"title": "Understanding ECMAScript 6",
 			"subtitle": "The Definitive Guide for JavaScript Developers",
